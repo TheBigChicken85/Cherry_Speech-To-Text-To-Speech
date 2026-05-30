@@ -4,3 +4,6 @@ A not so good not so capable STTTS software based on pyttsx3, whisper and voiceb
 NOTE: Everything uses the default instalation directory of itsself (voicebox 0.5.0)
 
 To install, just go to releases, click the link and download the .exe
+
+if you want custom voices use voicebox (https://voicebox.sh)
+ONLY USE VOICES YOU HAVE THE RIGHT TO USE
