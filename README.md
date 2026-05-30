@@ -7,3 +7,5 @@ To install, just go to releases, click the link and download the .exe
 
 if you want custom voices use voicebox (https://voicebox.sh)
 ONLY USE VOICES YOU HAVE THE RIGHT TO USE
+
+This program needs to be adjusted if you want to use it on Linux
