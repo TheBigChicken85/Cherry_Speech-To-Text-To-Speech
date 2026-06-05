@@ -522,7 +522,10 @@ class App(tk.Tk):
                  font=FONT_LABEL, bg=BG, fg=MUTED).grid(row=1, column=0, padx=PAD, sticky='w')
         tk.Frame(outer, bg=ACC, height=1).grid(row=2, column=0, padx=PAD,
                                                 pady=(6, PAD), sticky='ew')
-        self.iconbitmap("icon.ico")
+        try:
+            self.iconbitmap("icon.ico")
+        except tk.TclError:
+            pass
         # ── settings ──────────────────────────────────────────────────────────
         sf_frame = tk.Frame(outer, bg=BG)
         sf_frame.grid(row=3, column=0, padx=PAD, sticky='ew')
