@@ -9,3 +9,5 @@ if you want custom voices use voicebox (https://voicebox.sh)
 ONLY USE VOICES YOU HAVE THE RIGHT TO USE
 
 This program needs to be adjusted if you want to use it on Linux
+
+Currently, the .exe version doesn't work so you'll have to use the source code. I am working on a fix.
